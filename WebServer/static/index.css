@@ -1,0 +1,10 @@
+body {
+    border: 1px solid blue;
+}
+
+div {
+    border-radius: 10px;
+    width: 400px;
+    height: 200px;
+    border: 2px solid yellow;
+}
